@@ -1,0 +1,25 @@
+{
+	"subFields": {
+		"scalarOrView": "first_subField",
+		"rest_subFields_with_delF": "rest_subFields_with_del"
+	},
+	"rest_subField_with_delF": {
+		"scalarOrView": "rest_subField"
+	},
+	"scalarOrView": {
+		"scalar": "scalarF",
+		"view": "viewF"
+	},
+	"view": {
+		"word": "name",
+		"body": "bodyF"
+	},
+	"scalar": {
+		"word": "name",
+		"TypeSpecifier": "typeF"
+	},
+	"body": {
+		"subFields": "subFieldsF",
+		"IndirectMarker": "selfF"
+	}
+}

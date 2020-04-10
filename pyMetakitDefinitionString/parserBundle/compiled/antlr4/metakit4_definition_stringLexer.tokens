@@ -1,0 +1,17 @@
+SubFieldsStart=1
+SubFieldsEnd=2
+Colon=3
+OptionsSeparator=4
+IndirectMarker=5
+OtherWordChars=6
+OtherWordCharsOther=7
+OtherWordCharsUpper=8
+OtherWordCharsLower=9
+TypeSpecifier=10
+TypeSpecifierUpper=11
+TypeSpecifierLower=12
+'['=1
+']'=2
+':'=3
+','=4
+'^'=5
